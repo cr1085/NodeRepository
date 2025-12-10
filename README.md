@@ -16,8 +16,10 @@ API en Node.js para generar frases aleatorias sobre programación, tecnología y
 
 1. Clona el repositorio
 2. Instala dependencias:
+
 ```bash
 npm install
+```
 
 ---
 

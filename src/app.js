@@ -69,3 +69,30 @@ app.get('/api/quotes', (req, res) => {
     });
 });
 
+
+app.post('/api/quote', (req, res) => {
+
+    const {text, author, category} = req.body;
+
+    if(!text || !author || !category){
+        return res.status(400).json({
+            error:'Faltan datos'
+        });
+    }
+
+    
+    const nuevaFrase={
+    text,
+     author,
+      category
+    };
+
+    res.status(201).json({
+        message:'Frase añadida',
+        frase:nuevaFrase,
+        nota:'Visita /api/quotes para ver todas las frases'
+    });
+
+});
+
+
