@@ -25,6 +25,11 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 [![YouTube](https://img.shields.io/badge/YouTube-Aprende_Node-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/aoCsafFnJvs)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Node_cero_a_expert_part_0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/UG47EPcpyds)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Node_cero_a_expert_part_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Pi8PyFDTkN8)
+
+
 ---
 
 #  Generador de Frases Geek
