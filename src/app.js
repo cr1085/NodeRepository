@@ -96,3 +96,14 @@ app.post('/api/quote', (req, res) => {
 });
 
 
+app.use((req, res) => {
+    res.status(404).json({
+        error:'Endpoint no encontrado'
+    });
+});
+
+
+app.listem(PORT(), () => {
+    console.log(`Servidor escuchando en el puerto ${PORT}`);
+});
+
