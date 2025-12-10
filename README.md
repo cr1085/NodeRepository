@@ -1,3 +1,5 @@
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headernode.png)
+
 #  Generador de Frases Geek
 
 API en Node.js para generar frases aleatorias sobre programación, tecnología y cultura geek.
@@ -16,3 +18,7 @@ API en Node.js para generar frases aleatorias sobre programación, tecnología y
 2. Instala dependencias:
 ```bash
 npm install
+
+---
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headernode.png)
