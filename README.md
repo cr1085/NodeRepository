@@ -21,6 +21,12 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 ---
 
+# Aportes para la comunidad de Node Js
+
+[![YouTube](https://img.shields.io/badge/YouTube-Aprende_Node-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/aoCsafFnJvs)
+
+---
+
 #  Generador de Frases Geek
 
 API en Node.js para generar frases aleatorias sobre programación, tecnología y cultura geek.
