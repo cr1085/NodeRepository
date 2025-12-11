@@ -25,7 +25,12 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 ---
 
-[![YouTube](https://img.shields.io/badge/YouTube-generador_de_frases_geek-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xLfjzGfro1s)
+[![YouTube](https://img.shields.io/badge/YouTube-generador_de_frases_geek:parte_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xLfjzGfro1s)
+
+[![YouTube](https://img.shields.io/badge/YouTube-generador_de_frases_geek:parte_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ztaWmUJOk1g)
+
+
+---
 
 [![YouTube](https://img.shields.io/badge/YouTube-Aprende_Node-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/aoCsafFnJvs)
 
